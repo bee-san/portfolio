@@ -18,6 +18,7 @@
   <a href="https://app.netlify.com/sites/portfolio-cara/deploys">
       <img src="https://api.netlify.com/api/v1/badges/88bbaef1-6f83-4894-8acd-e6512ff39265/deploy-status" alt="Netlify Status" />
     </a>
+    <a href="https://discord.skerritt.blog"><img alt="Discord" src="https://img.shields.io/discord/754001738184392704?logo=discord&label=Discord"></a>
 </p>
 
 Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
